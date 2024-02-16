@@ -5,5 +5,13 @@
  <div align="center">
 <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="45" width="45"> 
 
-[ ( Clique aqui e venha conhecer ```Meu Atual Portfólio!!!```) ](https://portfoliotech-rafarz76dev.vercel.app//)
+[ ( Clique aqui e venha explorar ```A Look at My Portfolio!!!```) ](https://portfoliotech-rafarz76dev.vercel.app//)
+
+<br>
+
+<div align="center">
+  
+<img src= "https://media.giphy.com/media/3zSF3Gnr7cxMbi6WoP/giphy.gif" align="center" height="55" width="55"> [Demonstração-Portfolio_RafaRz76Dev <img src= "https://media.giphy.com/media/E5DzZsofmgxc9wjbhX/giphy.gif" align="center" height="35" width="35">
+
+<img height="480em" src= "assets/images/demonstracao-portfolio.png"  align="center"> 
 
